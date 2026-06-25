@@ -1,0 +1,6 @@
+pyotp 
+qrcode[pil] 
+flask 
+flask-sqlalchemy 
+bcrypt 
+pillow
